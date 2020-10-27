@@ -1,7 +1,6 @@
 ### Hello World, I am Mubin Sayed 👋
 
-
-- I am a ✨ Web Apps Developer ✨ having 5+ years of experience in developing website, web apps, api's ...
+I am a ✨ Web Apps Developer ✨ having 5+ years of experience in developing website, web apps, api's ...
 
 <!--
 **MubinSayed/MubinSayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
